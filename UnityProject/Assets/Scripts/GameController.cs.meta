@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 11d1f9ebc092aa7e1a7997a1611ba9cc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - pythonClient: {instanceID: 0}
+  - snakeSegmentPrefab: {fileID: 3583734849720539501, guid: cd15da76c8871402db41f896c028985f, type: 3}
+  - foodPrefab: {fileID: 3489618470066519869, guid: f26026dee5e091ea6aab22f86d0f8519, type: 3}
+  - scoreText: {instanceID: 0}
+  - gameOverText: {instanceID: 0}
+  - statusText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
